@@ -8,7 +8,7 @@ The GUI right now is pretty plain and not very pretty. An update is coming in th
 
 In order to run the program you need:
 
-*Python3
+* Python3.7
 
 To startup switch to the directory you cloned the repository to and run __python3 Main.py__
 
